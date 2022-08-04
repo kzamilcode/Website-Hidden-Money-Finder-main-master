@@ -130,6 +130,27 @@ background: linear-gradient(90deg, rgba(0,219,105,1) 0%, rgba(0,140,63,1) 50%, r
 .footerSection p .mRight{
     margin-right: 5px;
 }
+.btn:hover{
+color:#fff;
+background: rgb(0,156,71);
+background: linear-gradient(90deg, rgba(0,156,71,1) 100%, rgba(0,219,105,1) 100%);
+}
+
+
+
+a{
+    text-decoration: none;
+    color: #A39696;
+    cursor: pointer;
+}
+a:hover{
+    color: #A39696; 
+    cursor: pointer;
+}
+.form-control:focus, .form-select:focus {
+    border-color: #198754;
+    
+}
 /********anotherFile*********/
 
 .headerLogoBlack img{
