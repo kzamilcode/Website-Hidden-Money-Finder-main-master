@@ -59,7 +59,7 @@ margin-bottom: 50px;
     z-index: 9999;
     position: relative;
     background: #fff;
-    padding: 30px 50px;
+    padding: 30px 40px;
     border-radius: 30px;
 }
 .formText h1 {
@@ -150,6 +150,10 @@ a:hover{
 .form-control:focus, .form-select:focus {
     border-color: #198754;
     
+}
+
+.form-check-input:focus {
+    border-color: #198754;
 }
 /********anotherFile*********/
 
